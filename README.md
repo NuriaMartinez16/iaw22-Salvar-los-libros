@@ -8,4 +8,9 @@ Una página web que crea un grupo de personas que se dedica a recoger libros que
 <img src="fotos readme/3.png"  height="400rem" width="400rem"> <img src="fotos readme/4.png"  height="400rem" width="400rem">
 
 <h2>COLORES:</h2>
+<img src="fotos readme/COLORES.png">
+<h2>FUENTES:</h2>
+<img src="fotos readme/fuente texto.png">
+<img src="fotos readme/fuente titulos.png">
+
 
