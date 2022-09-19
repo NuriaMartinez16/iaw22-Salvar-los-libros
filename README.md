@@ -12,7 +12,7 @@ Una página web que crea un grupo de personas que se dedica a recoger libros que
 
 <h2>FUENTES:</h2>
 <img src="fotos readme/fuente texto.png" height="250em" width="250rem"> <img src="fotos readme/fuente titulos.png" height="250rem" width="250rem">
-<img src="fotos readme/fuente texto.png" height="250em" width="250rem"> <img src="fotos readme/fuente titulos.png" height="250rem" width="250rem">
+
 
 
 
