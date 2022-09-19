@@ -1,2 +1,2 @@
 # iaw22-Salvar-los-libros
-![foto1](fotos readme/image.png)!
+<img src="fotos readme/image.png">
