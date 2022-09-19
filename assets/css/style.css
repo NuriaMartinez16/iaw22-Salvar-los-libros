@@ -1,10 +1,10 @@
 @font-face {
     font-family: titulos;
-    src: url(.../SourceSansPro-Black.ttf);
+    src: url(../fonts/SourceSansPro-Black.ttf);
 }
 @font-face {
     font-family: texto;
-    src: url(../Montserrat-Light.ttf);
+    src: url(../fonts/Montserrat-Light.ttf);
 }
 #general {
     border: 2px solid black;
