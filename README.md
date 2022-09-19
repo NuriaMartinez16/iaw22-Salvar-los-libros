@@ -4,7 +4,7 @@ Pero desde parte de los alumnos del centro se le ha detectado una pega, ¿Qué v
 
 Una página web que crea un grupo de personas que se dedica a recoger libros que la gente ya no necesite para luego distribuirlos por las diferentes librerías de Navarra. Los libros de la antigua biblioteca podrían ser recogidos por este grupo de personas para darle una segunda vida. Existirían diferentes puntos de recogida de libros donde se encontrarían estas personas, y la gente que quiera donar libros acudiría allí para que ellos recojan sus libros y posteriormente los distribuyan en las librerías, donde la gente podrá ir a coger esos libros para leerlos y después devolverlos. 
 
-<img src="fotos readme/1.png" height="50rem" width="50rem">
+<img src="fotos readme/1.png" height="300rem" width="300rem">
 <img src="fotos readme/2.png">
 <img src="fotos readme/3.png">
 <img src="fotos readme/4.png">
