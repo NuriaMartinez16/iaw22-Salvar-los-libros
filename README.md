@@ -6,3 +6,6 @@ Una página web que crea un grupo de personas que se dedica a recoger libros que
 
 <img src="fotos readme/1.png"  height="400rem" width="400rem"> <img src="fotos readme/2.png"  height="400rem" width="400rem">
 <img src="fotos readme/3.png"  height="400rem" width="400rem"> <img src="fotos readme/4.png"  height="400rem" width="400rem">
+
+<h2>COLORES:</h2>
+
