@@ -1,0 +1,172 @@
+@font-face {
+    font-family: titulos;
+    src: url(../fonts/SourceSansPro-Black.ttf);
+}
+@font-face {
+    font-family: texto;
+    src: url(../fonts/Montserrat-Light.ttf);
+}
+#general {
+    border: 2px solid black;
+    min-width: 1200px;
+    background-color: aquamarine;
+    width: 95%;
+    height: auto;
+    padding: 20px;
+    margin: auto;
+    
+}
+#cabecera {
+    background-color: rgb(57, 198, 187);
+    height: 12rem;
+    font-family: titulos;
+}
+#cabecera h1 {
+    font-size:3rem;
+    background-image: url();
+}
+#cabecera h1,h2{
+    text-align: center;
+    color: white;
+    text-shadow: blue 2px 2px 2px;
+}
+#cabecera ul {
+    text-align: center;
+}
+#cabecera li {
+    display: inline;
+    margin: 30px;
+    border: 1px rgb(32, 95, 196) solid;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: rgb(32, 95, 196);
+}
+#cabecera a {
+    font-size: 20px;
+    text-decoration: none;
+    padding: 3px;
+    color: black;
+}
+#cabecera a:hover {
+    color: white;
+}
+#cabecera li:hover{
+    border: white solid 3px;
+}
+#pagactual {
+    background-color: blue;
+}
+#tema {
+    height: 20rem;
+}
+#texto {
+    font-family: texto;
+}
+hr {
+    border-color: white;
+    background-color: blue;
+    height: 2px;
+}
+.foto {
+    margin-top: 10px;
+}
+#imagenes {
+   
+    width: 19rem;
+    height: 44rem;
+    float: right;
+    text-align: center;
+    background-color: rgb(17, 255, 255);
+    font-family: texto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+
+#imagenes a:visited {
+    color: rgb(49, 91, 148);
+}
+
+#fotouno {
+    height: 10rem;
+    width: 10rem;
+}
+#fotodos {
+    height: 11rem;
+    width: 14rem;
+}
+#fototres {
+    height: 11rem;
+    width: 15rem;
+}
+
+#pie {
+    
+    margin-top: rem;
+    background-color:rgb(57, 198, 187) ;
+    height: 5rem;
+    clear: both;
+   
+}
+
+
+#flecha {
+    height: 3rem;
+    width: 3rem;
+    float: left;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+}
+
+
+
+#log {
+    height: 3rem;
+    width: 3rem;
+    float: right;
+    margin-top: 1rem;
+    margin-right: 0.5rem;
+}
+
+#tabla {
+   background-color: aqua;
+   padding: 1rem;
+   font-family: texto;
+}
+
+table {
+    
+    background-color: rgb(60, 110, 179);
+    margin: auto;
+    border-radius: 0.2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+}
+#tabla th {
+    background-color: rgb(194, 185, 185);
+   
+    border-radius: 0.2rem;
+    font-size: 1.5rem;
+}
+
+
+.imgs {
+    margin: 1rem;
+    height: 10rem;
+    width: 20rem;
+}
+
+#pietabla {
+    background-color:  rgb(194, 185, 185);
+    
+}
+
+#pietabla td {
+    border-radius: 0.2rem;
+    margin-bottom: 0;
+}
+
+
+
